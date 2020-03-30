@@ -1,0 +1,1 @@
+console.long("hola mundo")
